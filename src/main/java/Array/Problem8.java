@@ -6,6 +6,7 @@ class Problem8
   {
     int a[]= {1,1,2,5,3,2,5,6,3,7,6,9,5,8,5,6,6};
     int l=a.length;
+    // x is the integer for calculating it's occurrence
     int x=5;
     int r=0;
     for(int i=0;i<l;i++)
